@@ -17,7 +17,11 @@ Created a reusable lookup table and written justification that British Airways c
 **Task 2**
 
 Created a classification model to visualize customer buying behaviour, and then predict further behaviour accurately.
-    Accuracy Score: 85.07%
-    Cross-validated average ROC AUC: 0.7764
-    Test ROC AUC: 0.7796 
+
+
+    [Accuracy Score: 85.07%]
+    [Cross-validated average ROC AUC: 0.7764]
+    [Test ROC AUC: 0.7796]
+
+
 Prepared a powerpoint representation to highlight our insights and analysis
